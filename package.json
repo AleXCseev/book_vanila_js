@@ -16,5 +16,8 @@
     "eslint": "^8.43.0",
     "rollup": "^3.25.3",
     "rollup-plugin-import-css": "^3.3.1"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
   }
 }
