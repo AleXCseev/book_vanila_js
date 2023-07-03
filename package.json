@@ -15,9 +15,10 @@
     "@rollup/plugin-node-resolve": "^15.1.0",
     "eslint": "^8.43.0",
     "rollup": "^3.25.3",
+    "live-server": "^1.2.2",
     "rollup-plugin-import-css": "^3.3.1"
   },
   "dependencies": {
-    "live-server": "^1.2.2"
+    "on-change": "^4.0.2"
   }
 }
