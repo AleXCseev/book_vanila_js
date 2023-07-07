@@ -18,7 +18,19 @@
     gap: 10px;
     font-size: 14px;
     line-height: 1.3;
-    color: var(--black);
     text-decoration: none;
-    
+    color: inherit;
+}
+
+.menu__item:visited {
+    color: var(--black);
+}
+
+.menu__counter {
+    font-size: 12px;
+    line-height: 2.2;
+    font-weight: 600;
+    border: 1px solid var(--black);
+    border-radius: 100%;
+    padding: 0px 10px;
 }
